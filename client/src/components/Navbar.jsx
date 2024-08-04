@@ -19,7 +19,7 @@ export const Navbar = () => {
         <button
           onClick={registerPressed()}
           type="button"
-          className="px-7 py-3 border border-primary-white hover:border-2 rounded-xl bg-secondary-orange"
+          className="px-7 py-3 border border-primary-white rounded-xl bg-secondary-orange"
         >
           Register
         </button>
